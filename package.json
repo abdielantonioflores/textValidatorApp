@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "node ./src/pages/app.pages.test.js",
-    "start": "webpack-dev-server"
+    "start": "webpack-dev-server --open"
   },
   "author": "Abdiel Flores",
   "license": "ISC",
